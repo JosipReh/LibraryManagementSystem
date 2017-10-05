@@ -1,0 +1,25 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#mainWindow {
+-fx-background-color: skyblue, derive(skyblue, 25%);
+-fx-background-image: url('/app/images/Background.png');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+
+#registerPanel {
+-fx-background-image: url('/app/images/paper.jpg');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: 100% auto;
+}
+
+#registerPane{
+    -fx-background-color: rgba(0,0,0,0.7);
+}
+#versionPane{
+    -fx-background-color: rgba(0,0,0,0.7);
+}

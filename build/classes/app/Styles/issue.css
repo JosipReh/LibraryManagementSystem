@@ -1,0 +1,24 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#mainWindow{
+-fx-background-image: url('/app/images/default_background.jpg');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+#search_book_button {
+    -fx-graphic: url('/app/images/icons/search_icon.png');
+}
+
+#search_student_button {
+    -fx-graphic: url('/app/images/icons/search_icon.png');
+}
+
+#issue_book_button{
+    -fx-graphic: url('/app/images/icons/issue_book_icon.png');
+}
+#backButton{
+    -fx-graphic: url('/app/images/icons/back_icon.png');
+}

@@ -1,0 +1,19 @@
+/*
+ * Empty Stylesheet file.
+ */
+#mainWindow{
+-fx-background-image: url('/app/images/default_background.jpg');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+#search_student_button{
+    -fx-graphic: url('/app/images/icons/search_icon.png');
+}
+#return_book_button{
+    -fx-graphic: url('/app/images/icons/return_book_icon.png');
+}
+
+#back_button{
+    -fx-graphic: url('/app/images/icons/back_icon.png');
+}

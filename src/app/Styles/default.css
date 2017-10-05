@@ -1,0 +1,48 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#mainWindow{
+-fx-background-image: url('/app/images/default_background.jpg');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+
+
+
+#manageBooksButton {
+-fx-background-image: url('/app/images/icons/manage_books.png');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+-fx-background-color: rgba(0,0,0,0);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 20, 0, 0, 0);
+}
+
+
+#newStudentButton {
+-fx-background-image: url('/app/images/icons/new_student.png');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+-fx-background-color: rgba(0,0,0,0);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 20, 0, 0, 0);
+}
+
+#issueBookButton {
+-fx-background-image: url('/app/images/icons/issue_book.png');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+-fx-background-color: rgba(0,0,0,0);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 20, 0, 0, 0);
+}
+#returnBookButton {
+-fx-background-image: url('/app/images/icons/return_book.png');
+-fx-background-position: center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+-fx-background-color: rgba(0,0,0,0);
+-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 20, 0, 0, 0);
+}
