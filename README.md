@@ -16,4 +16,7 @@
 
 ## Extra configuration :
  You can configure database credentials in ``` https://github.com/JosipReh/LibraryManagementSystem/blob/master/src/app/Database/DBConn.java ```
- 
+## Documentation :
+* You can find project docs file called ``` ETS - Završni rad - Josip Reh print.doc ```
+* Documentation is written on Croatian language.
+
